@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on academic and personal projects focused on web-based information systems.<br>🌱 I’m currently learning Java, PHP, JavaScript, and basic database development.<br>💬 Ask me about my school projects, beginner backend concepts, and the languages I’m learning.<br>⚡ Fun fact: I enjoy focusing on server-side logic more than frontend design.<br>
+🔭 I’m currently working on academic and personal projects focused on web-based information systems.<br>🌱 I’m currently learningJava, PHP, JavaScript, and basic database development — always open to learning more!.<br>💬 Ask me about my school projects, beginner backend concepts, and the languages I’m learning.<br>⚡ Fun fact: I enjoy focusing on server-side logic more than frontend design.<br>
 
 
 ## 🌐 Socials:
